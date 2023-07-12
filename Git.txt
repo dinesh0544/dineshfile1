@@ -1,0 +1,39 @@
+Git
+
+Git(golbal informationtracker): 
+                         Git is a version controlling system and it is a source code management. it is a software which is installed on local managment.
+
+VCS:
+     version controlling system means controlling the multiple versions of the code.
+
+1.git will takes the all developers code and its combines a single project.
+2.git will stores the all versions of code.
+3.git will tracks who is making the changes and what kind of modifications to the code.
+
+They are 2 types of vcs
+
+1.Disturbted version controlling system
+2.centralized version controlling system
+
+1.Disturbted version controlling system:
+                                         Here we have the local repository at developer machine. i.e., you have the copy of code in developers machinelevel.
+                                                         EX:GIT
+2.centralized version controlling system: 
+                                         Here we have  only centralized repository
+                                                          EX:SVN
+They are 3 work flows in git:
+
+1. working directory
+2.stagging area
+3.local repository
+
+1. working directory:
+                      working directory is also called as "workspace"and this is the folder where the code is created and where the files present here are initially called as "untracked files".
+
+2.stagging area:
+                   This is also called "intermediate bufferzone".Here all files will be identified by your git. here files we called as" tracked file".
+
+3.local repository:    This files are commited to local Rep to stagging area.
+
+
+
