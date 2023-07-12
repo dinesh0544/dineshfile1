@@ -1,5 +1,0 @@
-Git clone:
-            it will download the code in remote repo to local machine. its acts has a one time activity into download the code.
-
-git fetch: By using git fetch it will download the modified files by creating a remote branch on local machines.
-
