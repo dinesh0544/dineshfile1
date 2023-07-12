@@ -1,0 +1,10 @@
+linux comannds
+
+
+touch
+cat
+vi
+ls
+mkdir
+rm
+rm-f
