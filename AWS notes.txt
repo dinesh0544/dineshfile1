@@ -1,5 +1,5 @@
 *#What is DevOps:- Development + Operations-
-                                                                                 "it overcomes the gap between both Developers and operations team".
+"it overcomes the gap between both Developers and operations team".
 & it is a process or culture improves the organization's ability to deliver their application - 
 by ensuring that there is a proper automation takes place with 
 a code Quality that we have maintained for the application & 
